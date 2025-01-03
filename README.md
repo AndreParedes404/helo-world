@@ -1,3 +1,3 @@
-# Título del Docuemnto
+# Título del Documento
 *ejemplo de entrada*
 **CONFIRMADO**

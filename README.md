@@ -9,7 +9,8 @@ NOTA: ctrl + shift + V
 
 # Segunda Sección
 Descripción
-
+**Otro texto en negrita**
 ## Segundo Subtítulo
 
 nombre completo
+*otro texto en cursiva*
